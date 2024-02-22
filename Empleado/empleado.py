@@ -10,3 +10,9 @@ class Empleado:
     '''
     sexo=0
     salario=0
+    '''
+    # Metodos
+    '''
+    def CambiarSalario(self, nuevoSalario):
+        #Aqui va el codigo del metodo
+    
